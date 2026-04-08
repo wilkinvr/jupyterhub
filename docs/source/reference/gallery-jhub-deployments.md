@@ -143,6 +143,19 @@ The [Educational Development and Technology](https://ethz.ch/en/the-eth-zurich/o
 - What's new in Jupyter Notebooks @[Elucidata](https://www.elucidata.io/):
   - [Using Jupyter Notebooks with Jupyterhub on GCP, managed by GKE](https://medium.com/elucidata/why-you-should-be-using-a-jupyter-notebook-8385a4ccd93d)
 
+### Vrije Universiteit Amsterdam
+
+- https://hub.compute.vu.nl/
+
+For resource-heavy homework assignments or research projects, the Vrije Universiteit Amsterdam provides four heavy-duty _Compute Servers_, made accessible with JupyterHub.
+We provide more than 10 general-purpose, and more than 20 course-specific environments. Python, R-Studio, Matlab, QGis and other tools are supported and ready for use.
+
+> ‘Class is so much faster now. Students generally finish three times faster than in previous years, with few questions for teachers.
+> We can now focus more on the content, rather than the technical part.’
+> VU researcher Arthur Avramiea (Integrative Neurophysiology) is overwhelmingly enthusiastic about JupyterHub. 
+
+- From [You can (quickly) count on JupyterHub - vu.nl](https://vu.nl/en/news/2024/you-can-quickly-count-on-jupyterhub)
+
 ## Service Providers
 
 ### AWS
