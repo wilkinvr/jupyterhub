@@ -142,6 +142,14 @@ The [Educational Development and Technology](https://ethz.ch/en/the-eth-zurich/o
 
 - What's new in Jupyter Notebooks @[Elucidata](https://www.elucidata.io/):
   - [Using Jupyter Notebooks with Jupyterhub on GCP, managed by GKE](https://medium.com/elucidata/why-you-should-be-using-a-jupyter-notebook-8385a4ccd93d)
+ 
+### Vrije Universiteit Amsterdam
+
+- https://hub.compute.vu.nl/
+  - [You can (quickly) count on JupyterHub - vu.nl](https://vu.nl/en/news/2024/you-can-quickly-count-on-jupyterhub)
+
+For resource-heavy coursework and research projects, Vrije Universiteit Amsterdam provides four bare-metal _Compute Servers_, made accessible with JupyterHub.
+We provide more than 10 general-purpose, and more than 20 course-specific environments.
 
 ## Service Providers
 
